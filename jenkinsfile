@@ -13,3 +13,5 @@ pipeline {
                 git branch: 'main', credentialsId: 'a81588e3-5f2b-4f92-a685-f086a5cd7892', url: 'https://github.com/Abder0514/depotgithub.git'
             }
         }
+    }
+}
